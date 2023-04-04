@@ -63,6 +63,8 @@ export class Provider extends React.Component<Iprops, Istate> {
     //   this.setState({cartdata:[...cartdata]})
     //   Alert.alert('Item is already in the cart')
     // }
+
+    //hello
     
   
   };
